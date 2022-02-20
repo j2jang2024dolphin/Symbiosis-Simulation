@@ -6,9 +6,9 @@ Working procedures:
 3. Calculate ratio of species and calculate the consumption rate, reproduction rate
 4. Using information above, go month by month on how the population trendline occurs over x months
 
-Calculations:
-1. Offsprings are produced on a regular basis depending on reproductive cycles
-2. Rates of consumptions are computed through the following procedures:
+Offsprings are produced on a regular basis depending on reproductive cycles.
+
+Rates of consumptions are computed through the following procedures:
 1. Research on actual population
 2. Calculation of consumption rates that keeps this number stable
 
