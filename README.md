@@ -10,9 +10,10 @@ Rates of consumptions are computed through the following procedures:
 1. Research on actual population
 2. Calculation of consumption rates that keeps this number stable
 
-Autotroph 
-Primary Consumer (deer)
-Secondary Consumer (gray wolf)
+Food web levels 
+1. Autotrophs (Plants)
+2. Primary Consumers (Deer, Bison)
+3. Secondary Consumers (Wolf, Bear)
 
 Python calculates the total population by subtracting the death rate and adding the reproduction rate to the original population every year
-P(n) = P(n-1) * (Rate of increase) * (Rate of decrease)
+Formula: P(n) = P(n-1) * (Rate of increase) * (Rate of decrease)
