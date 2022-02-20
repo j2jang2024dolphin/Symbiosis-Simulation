@@ -9,6 +9,7 @@ Working procedures:
 Calculations:
 1. Offsprings are produced on a regular basis depending on reproductive cycles
 2. Rates of consumptions are computed through the following procedures:
+
 a. Research on actual population
 b. Calculation of consumption rates that keeps this number stable
 
